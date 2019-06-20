@@ -40,7 +40,7 @@ public class Main {
         }
 
         for (int tempIndex = 0; tempIndex < numItems; tempIndex++) {
-            input[tempIndex] = String.valueOf(temp[tempIndex]);
+            input[tempIndex] = temp[tempIndex];
         }
     }
 
