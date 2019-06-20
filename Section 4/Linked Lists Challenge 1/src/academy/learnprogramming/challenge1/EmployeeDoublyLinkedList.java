@@ -116,5 +116,4 @@ public class EmployeeDoublyLinkedList {
         }
         System.out.println("null");
     }
-
 }

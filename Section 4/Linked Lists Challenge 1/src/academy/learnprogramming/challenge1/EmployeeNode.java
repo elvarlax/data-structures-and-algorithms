@@ -37,6 +37,4 @@ public class EmployeeNode {
     public String toString() {
         return employee.toString();
     }
-
-
 }
