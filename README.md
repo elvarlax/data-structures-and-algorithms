@@ -9,8 +9,8 @@ All coursework for the Data Structures and Algorithms by Tim Buchalka and Sarah 
 - [x] Section 01 - Introduction
 - [x] Section 02 - Arrays and Big-O Notation
 - [x] Section 03 - Sort Algorithms
-- [ ] Section 04 - Lists
-- [ ] Section 05 - Stacks
+- [x] Section 04 - Lists
+- [x] Section 05 - Stacks
 - [ ] Section 06 - Queues
 - [ ] Section 07 - Hashtables
 - [ ] Section 08 - Search Algorithms
