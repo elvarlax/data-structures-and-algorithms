@@ -14,7 +14,7 @@ All coursework for the Data Structures and Algorithms by Tim Buchalka and Sarah 
 - [x] Section 06 - Queues
 - [x] Section 07 - Hashtables
 - [x] Section 08 - Search Algorithms
-- [ ] Section 09 - Trees
+- [x] Section 09 - Trees
 - [ ] Section 10 - Heaps
 - [ ] Section 11 - Course Wrap-Up
 - [ ] Section 12 - Bonus Material
