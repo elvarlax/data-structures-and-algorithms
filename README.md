@@ -4,6 +4,8 @@ All coursework for the Data Structures and Algorithms by Tim Buchalka and Sarah 
 [The Course at Udemy](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java)   
 [The Learn Programming Academy](http://learnprogramming.academy)
 
+![Certificate](certificate.jpg)
+
 ## Curriculum
 
 - [x] Section 01 - Introduction
@@ -16,5 +18,5 @@ All coursework for the Data Structures and Algorithms by Tim Buchalka and Sarah 
 - [x] Section 08 - Search Algorithms
 - [x] Section 09 - Trees
 - [x] Section 10 - Heaps
-- [ ] Section 11 - Course Wrap-Up
-- [ ] Section 12 - Bonus Material
+- [x] Section 11 - Course Wrap-Up
+- [x] Section 12 - Bonus Material
